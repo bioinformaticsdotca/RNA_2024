@@ -23,11 +23,11 @@ The course **schedule** can be found [here](https://bioinformaticsdotca.github.i
 
 # Pre-Workshop Preparation <a id="preworkshop"></a>
 
-**Pre-work** including programs to install can be found [here]()
+**Pre-work** including programs to install can be found [here](https://forms.gle/dXRFV6VRYAvvn3dd7)
 
 # AWS Module <a id="preworkshop"></a>
 
-<!-- Connecting and properly using a cloud computing cluster at the CBW [here]() -->
+Connecting and properly using a cloud computing cluster at the CBW [here](https://bioinformaticsdotca.github.io/AWS_2024)
 
 ***
 
