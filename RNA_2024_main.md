@@ -49,7 +49,9 @@ Coming soon!
 
 *<font color="#827e9c"></font>*
 
-[Module 1 Lecture Slides](https://drive.google.com/file/d/1KdmXaOaU5vexQ2DTvviNvYeEopFnmeQS/view?usp=sharing)  
+[Module 1 Lecture Slides - Intro](https://drive.google.com/file/d/1KdmXaOaU5vexQ2DTvviNvYeEopFnmeQS/view?usp=sharing)  
+[Module 1 Lecture Slides - FASTA/FASTQ/GTF](https://drive.google.com/file/d/1TaTTkzaebPe-LaSsAbhOrI12lMAxqpBi/view?usp=sharing)  
+[Module 1 Lecture Slides - Indexing](https://drive.google.com/file/d/1ajYpn6gupkHNL-c-iXGO7HF9PPjwn0vR/view?usp=sharing)  
 
 
 ### Module 1 Lab
@@ -64,7 +66,11 @@ Coming soon!
 
 <!-- *<font color="#827e9c"></font>* -->
 
-[Module 2 Lecture Slides](https://drive.google.com/file/d/1bNDKXMn-2D7r827tVPWuHzXQjGf5Riz3/view?usp=drive_link)  
+[Module 2 Lecture Slides - Alignment](https://drive.google.com/file/d/1sLR3RAHcnOXVzUp_i6jdTNnAIk6_66vY/view?usp=sharing)  
+[Module 2 Lecture Slides - Alignment vs Assembly vs Kmer](https://drive.google.com/file/d/129C7SIk50nI8tjE2Op9Uqa-3C9sYc6QZ/view?usp=sharing)
+[Module 2 Lecture Slides - SAM/BAM/BED](https://drive.google.com/file/d/1aQsZXdMicVhZGAzDYMs2TRFqUQtK5Y1Y/view?usp=sharing)  
+[Module 2 Lecture Slides - IGV](https://drive.google.com/file/d/17UDiStDG9V7ix5UtyQEF7ynRJa8YABAf/view?usp=sharing)  
+[Module 2 Lecture Slides - Alignment QC](https://drive.google.com/file/d/1LPcyGQvGCw91VxWexyRpZ5EH02mf6ZtF/view?usp=sharing)  
 
 
 ## Module 2 Lab
@@ -73,12 +79,17 @@ Coming soon!
   [Adapter Trim](https://rnabio.org/module-02-alignment/0002/02/01/Adapter_Trim/)  
   [Alignment](https://rnabio.org/module-02-alignment/0002/03/01/Alignment/)  
   [IGV](https://rnabio.org/module-02-alignment/0002/04/01/IGV/)  
-  [Alignment Visualization](https://rnabio.org/module-02-alignment/0002/05/01/Alignment_Visualization/)  
-  [Alignment QC](https://rnabio.org/module-02-alignment/0002/06/01/Alignment_QC/)  
+  [Alignment Visualization Preparation](https://rnabio.org/module-02-alignment/0002/05/01/AlignVis_Prep/)  
+  [Alignment Visualization IGV](https://rnabio.org/module-02-alignment/0002/05/02/AlignVis_IGV/)  
+  [Alignment Visualization Allele Expression](https://rnabio.org/module-02-alignment/0002/05/03/AlignVis_AlleleExpression/)  
+  [Alignment QC](https://rnabio.org/module-02-alignment/0002/06/01/Alignment_QC/)
+  [Team Assignment - Alignment](https://rnabio.org/module-02-alignment/0002/07/01/Team_Assignment_Alignment/)
+  
 
 ## Optional Team Assignment
 
-<!-- [Team Assignment - Alignment](https://rnabio.org/module-02-alignment/0002/07/01/Team_Assignment_Alignment/) -->
+[Team Assignment - Alignment](https://rnabio.org/module-02-alignment/0002/07/01/Team_Assignment_Alignment/)
+
 <!-- * We will be completing the download and data preprocessing steps today -->
 
 <!-- # Day 2 <a id="day2"></a> -->
