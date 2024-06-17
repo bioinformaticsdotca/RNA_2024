@@ -67,7 +67,7 @@ Coming soon!
 <!-- *<font color="#827e9c"></font>* -->
 
 [Module 2 Lecture Slides - Alignment](https://drive.google.com/file/d/1sLR3RAHcnOXVzUp_i6jdTNnAIk6_66vY/view?usp=sharing)  
-[Module 2 Lecture Slides - Alignment vs Assembly vs Kmer](https://drive.google.com/file/d/129C7SIk50nI8tjE2Op9Uqa-3C9sYc6QZ/view?usp=sharing)
+[Module 2 Lecture Slides - Alignment vs Assembly vs Kmer](https://drive.google.com/file/d/129C7SIk50nI8tjE2Op9Uqa-3C9sYc6QZ/view?usp=sharing)  
 [Module 2 Lecture Slides - SAM/BAM/BED](https://drive.google.com/file/d/1aQsZXdMicVhZGAzDYMs2TRFqUQtK5Y1Y/view?usp=sharing)  
 [Module 2 Lecture Slides - IGV](https://drive.google.com/file/d/17UDiStDG9V7ix5UtyQEF7ynRJa8YABAf/view?usp=sharing)  
 [Module 2 Lecture Slides - Alignment QC](https://drive.google.com/file/d/1LPcyGQvGCw91VxWexyRpZ5EH02mf6ZtF/view?usp=sharing)  
