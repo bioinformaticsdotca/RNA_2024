@@ -13,8 +13,6 @@ length: 3 days
 
 # Welcome <a id="welcome"></a>
 
-**This page is still being built. Please note that some links may be broken or out of date.**
-
 Welcome to RNA-seq Analysis 2024.
 
 The course **schedule** can be found [here](https://bioinformaticsdotca.github.io/RNA_2024_schedule)   
@@ -41,48 +39,44 @@ Coming soon!
 
 Coming soon!
 
-<!-- # Day 1 <a id="day1"></a> -->
+# Day 1 <a id="day1"></a>
 
-<!-- ##  Welcome -->
+##  Welcome
 
-<!-- *<font color="#827e9c">Nia Hughes</font>* -->
+*<font color="#827e9c">Nia Hughes</font>*
 
-<!-- ## Module 1 -->
+## Module 1
 
-<!-- *<font color="#827e9c"></font>* -->
+*<font color="#827e9c"></font>*
 
-<!-- [Module 1 Lecture Slides](https://drive.google.com/file/d/14-PfnpO9_iwklblW5UzoodKjh-ZGkU8y/view?usp=drive_link)  
-[Module 1 Mini-Lecture: FASTA/FASTQ/GTF](https://drive.google.com/file/d/1GLAFoz-kFppXvJfFVWUkpIpwOY20xQr5/view?usp=drive_link)  
-[Module 1 Mini-Lecture: Indexing](https://drive.google.com/file/d/1bMsufuc8U1rE33Go-ju-yptRJ_xFucoh/view?usp=drive_link)   -->
+[Module 1 Lecture Slides](https://drive.google.com/file/d/1KdmXaOaU5vexQ2DTvviNvYeEopFnmeQS/view?usp=sharing)  
 
-<!-- ### Module 1 Lab -->
-  <!-- [Introduction to Inputs](https://rnabio.org/module-01-inputs/0001/01/01/Intro_to_Inputs/)  
+
+### Module 1 Lab
+  [Introduction to Inputs](https://rnabio.org/module-01-inputs/0001/01/01/Intro_to_Inputs/)  
   [Reference Genomes](https://rnabio.org/module-01-inputs/0001/02/01/Reference_Genomes/)  
   [Annotations](https://rnabio.org/module-01-inputs/0001/03/01/Annotations/)  
   [Indexing](https://rnabio.org/module-01-inputs/0001/04/01/Indexing/)  
   [Data](https://rnabio.org/module-01-inputs/0001/05/01/RNAseq_Data/)  
-  [Data QC](https://rnabio.org/module-01-inputs/0001/06/01/Pre-alignment_QC/)   -->
+  [Data QC](https://rnabio.org/module-01-inputs/0001/06/01/Pre-alignment_QC/)  
 
-<!-- ## Module 2 -->
+## Module 2
 
 <!-- *<font color="#827e9c"></font>* -->
 
-<!-- [Module 2 Lecture Slides](https://drive.google.com/file/d/1bNDKXMn-2D7r827tVPWuHzXQjGf5Riz3/view?usp=drive_link)  
-[Module 2 Mini-Lecture: Alignment](https://drive.google.com/file/d/1Peti_cc1PFNU27fITqIN-ZVp07VXaIud/view?usp=drive_link)  
-[Module 2 Mini-Lecture: Alignment vs. Assembly vs. Pseudoalignment](https://drive.google.com/file/d/17xl5-p-3GRInDrFnHk3btkgk-AqNGUbl/view?usp=drive_link)  
-[Module 2 Mini-Lecture: SAM/BAM/BED file formats](https://drive.google.com/file/d/1o0JrSKn6SjyfdvoF2FnNyQDCi-a2Zoim/view?usp=drive_link)  
-[Module 2 Mini-Lecture: Alignment QC](https://drive.google.com/file/d/1umG-3EygyD5-XDuERnK6lZaQ0DQ8NFw6/view?usp=drive_link)   -->
+[Module 2 Lecture Slides](https://drive.google.com/file/d/1bNDKXMn-2D7r827tVPWuHzXQjGf5Riz3/view?usp=drive_link)  
 
-<!-- ## Module 2 Lab -->
 
-  <!-- [Introduction to Alignment](https://rnabio.org/module-02-alignment/0002/01/01/Intro_to_Alignment/)  
+## Module 2 Lab
+
+  [Introduction to Alignment](https://rnabio.org/module-02-alignment/0002/01/01/Intro_to_Alignment/)  
   [Adapter Trim](https://rnabio.org/module-02-alignment/0002/02/01/Adapter_Trim/)  
   [Alignment](https://rnabio.org/module-02-alignment/0002/03/01/Alignment/)  
   [IGV](https://rnabio.org/module-02-alignment/0002/04/01/IGV/)  
   [Alignment Visualization](https://rnabio.org/module-02-alignment/0002/05/01/Alignment_Visualization/)  
-  [Alignment QC](https://rnabio.org/module-02-alignment/0002/06/01/Alignment_QC/)   -->
+  [Alignment QC](https://rnabio.org/module-02-alignment/0002/06/01/Alignment_QC/)  
 
-<!-- ## Optional Team Assignment -->
+## Optional Team Assignment
 
 <!-- [Team Assignment - Alignment](https://rnabio.org/module-02-alignment/0002/07/01/Team_Assignment_Alignment/) -->
 <!-- * We will be completing the download and data preprocessing steps today -->
