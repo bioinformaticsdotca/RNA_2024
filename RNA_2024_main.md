@@ -101,14 +101,6 @@ Coming soon!
 
  [Introduction to Expression Analysis](https://rnabio.org/module-03-expression/0003/01/01/Intro_to_Expression/)  
  [Expression Analysis with Stringtie and htseq-count](https://rnabio.org/module-03-expression/0003/02/01/Expression/)  
- [Differential Expression with Ballgown](https://rnabio.org/module-03-expression/0003/03/01/Differential_Expression-Ballgown/)  
- [Differential Expression with DESeq2](https://rnabio.org/module-03-expression/0003/03/03/Differential_Expression-DESeq2/)  
- [DE Visualization with Ballgown](https://rnabio.org/module-03-expression/0003/04/01/DE_Visualization_Ballgown/)  
- [DE Visualization with DESeq2](https://rnabio.org/module-03-expression/0003/04/02/DE_Visualization-DESeq2/)  
- [DE Visualization Advanced](https://rnabio.org/module-03-expression/0003/04/03/DE_Visualization_AdvancedR/)  
- [DE Pathway Analysis](https://rnabio.org/module-03-expression/0003/05/01/DE_Pathway_Analysis/)  
- [Batch Correction - Preparation](https://rnabio.org/module-03-expression/0003/06/01/Batch-Correction-Prep/)  
- [Batch Correction Analysis](https://rnabio.org/module-03-expression/0003/06/02/Batch-Correction/)  
 
 ## Optional Team Assignment
 
@@ -120,9 +112,19 @@ Coming soon!
 
 *Complete Part I - Expression Estimation.*
 
-<!-- # Day 3 <a id="day3"></a> -->
+# Day 3 <a id="day3"></a>
 
-<!-- ## Module 4 -->
+## Module 3 Lab (Continued)
+
+ [Differential Expression with Ballgown](https://rnabio.org/module-03-expression/0003/03/01/Differential_Expression-Ballgown/)  
+ [Differential Expression with DESeq2](https://rnabio.org/module-03-expression/0003/03/03/Differential_Expression-DESeq2/)  
+ [DE Visualization with Ballgown](https://rnabio.org/module-03-expression/0003/04/01/DE_Visualization_Ballgown/)  
+ [DE Visualization with DESeq2](https://rnabio.org/module-03-expression/0003/04/02/DE_Visualization-DESeq2/)  
+ [DE Visualization Advanced](https://rnabio.org/module-03-expression/0003/04/03/DE_Visualization_AdvancedR/)  
+ [DE Pathway Analysis](https://rnabio.org/module-03-expression/0003/05/01/DE_Pathway_Analysis/)  
+ [Batch Correction - Preparation](https://rnabio.org/module-03-expression/0003/06/01/Batch-Correction-Prep/)  
+ [Batch Correction Analysis](https://rnabio.org/module-03-expression/0003/06/02/Batch-Correction/)  
+
 
 <!-- [Module 4 Mini-Lecture: Alignment-Free Expression Estimation (Kallisto)](https://drive.google.com/file/d/1P_PZQ9d_TONavatvL5G79VTQm1ooRff8/view?usp=drive_link)   -->
 
