@@ -82,33 +82,43 @@ Coming soon!
   [Alignment Visualization Preparation](https://rnabio.org/module-02-alignment/0002/05/01/AlignVis_Prep/)  
   [Alignment Visualization IGV](https://rnabio.org/module-02-alignment/0002/05/02/AlignVis_IGV/)  
   [Alignment Visualization Allele Expression](https://rnabio.org/module-02-alignment/0002/05/03/AlignVis_AlleleExpression/)  
-  [Alignment QC](https://rnabio.org/module-02-alignment/0002/06/01/Alignment_QC/)
-  [Team Assignment - Alignment](https://rnabio.org/module-02-alignment/0002/07/01/Team_Assignment_Alignment/)
+  [Alignment QC](https://rnabio.org/module-02-alignment/0002/06/01/Alignment_QC/)  
   
 
 ## Optional Team Assignment
 
 [Team Assignment - Alignment](https://rnabio.org/module-02-alignment/0002/07/01/Team_Assignment_Alignment/)
 
-<!-- * We will be completing the download and data preprocessing steps today -->
+*Complete Part I - Obtaining the dataset & reference files and Part II - Data Preprocessing.*
 
-<!-- # Day 2 <a id="day2"></a> -->
+# Day 2 <a id="day2"></a>
 
-<!-- ## Module 3 -->
+## Module 3
 
-<!-- [Module 3 Lecture Slides](https://drive.google.com/file/d/1G3HBgpvnRUXqN-kar5FMslunvXqHiArf/view?usp=drive_link)  
-[Module 3 Mini-Lecture: Abundance Estimation](https://drive.google.com/file/d/1Sv4_0tXHdigLWpaaU3-epGmVtbzIilz0/view?usp=drive_link)  
-[Module 3 Mini-Lecture: HTSeq](https://drive.google.com/file/d/1Jf_wyzsArIVznosXKDLhX4gYin924LXg/view?usp=drive_link)  
-[Module 3 Mini-Lecture: Differential Expression](https://drive.google.com/file/d/1TGsNMdKw6OwxN-_I_Xf2-4dQwAhKbsjH/view?usp=sharing)   -->
+[Module 3 Lecture Slides](https://drive.google.com/file/d/1r0dSTI2cGcyGe-I-rsCDRHOwoACx29WO/view?usp=sharing)  
 
-<!-- ## Module 3 Lab -->
+## Module 3 Lab
 
- <!-- [Introduction to Expression Analysis](https://rnabio.org/module-03-expression/0003/01/01/Intro_to_Expression/)  
- [Expression](https://rnabio.org/module-03-expression/0003/02/01/Expression/)  
- [Differential Expression](https://rnabio.org/module-03-expression/0003/03/01/Differential_Expression/)  
- [Ballgown DE Visualization](https://rnabio.org/module-03-expression/0003/04/01/DE_Visualization/)  
- [Batch Correction](https://rnabio.org/module-03-expression/0003/05/01/Batch-Correction/)  
- [DE Pathway Analysis](https://rnabio.org/module-03-expression/0003/06/01/DE_Pathway_Analysis/)   -->
+ [Introduction to Expression Analysis](https://rnabio.org/module-03-expression/0003/01/01/Intro_to_Expression/)  
+ [Expression Analysis with Stringtie and htseq-count](https://rnabio.org/module-03-expression/0003/02/01/Expression/)  
+ [Differential Expression with Ballgown](https://rnabio.org/module-03-expression/0003/03/01/Differential_Expression-Ballgown/)  
+ [Differential Expression with DESeq2](https://rnabio.org/module-03-expression/0003/03/03/Differential_Expression-DESeq2/)  
+ [DE Visualization with Ballgown](https://rnabio.org/module-03-expression/0003/04/01/DE_Visualization_Ballgown/)  
+ [DE Visualization with DESeq2](https://rnabio.org/module-03-expression/0003/04/02/DE_Visualization-DESeq2/)  
+ [DE Visualization Advanced](https://rnabio.org/module-03-expression/0003/04/03/DE_Visualization_AdvancedR/)  
+ [DE Pathway Analysis](https://rnabio.org/module-03-expression/0003/05/01/DE_Pathway_Analysis/)  
+ [Batch Correction - Preparation](https://rnabio.org/module-03-expression/0003/06/01/Batch-Correction-Prep/)  
+ [Batch Correction Analysis](https://rnabio.org/module-03-expression/0003/06/02/Batch-Correction/)  
+
+## Optional Team Assignment
+
+[Team Assignment - Alignment (Continued)](https://rnabio.org/module-02-alignment/0002/07/01/Team_Assignment_Alignment/)  
+
+*Complete Part III - Alignment and Part IV - Post-alignment QC & IGV Visualization.*
+
+[Team Assignment - Expression and DE](https://rnabio.org/module-03-expression/0003/07/01/Team_Assignment_ExpressionDE/)  
+
+*Complete Part I - Expression Estimation.*
 
 <!-- # Day 3 <a id="day3"></a> -->
 
