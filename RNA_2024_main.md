@@ -31,7 +31,7 @@ Connecting and properly using a cloud computing cluster at the CBW [here](https:
 
 # Class Photo
 
-Coming soon!
+[RNA-seq Analysis Class of 2024](https://drive.google.com/file/d/1oWIzU7cR1_b392o0YYhpWETtcybVc8tK/view?usp=sharing)
 
 ***
 
