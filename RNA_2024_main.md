@@ -48,7 +48,8 @@ Coming soon!
 ## Module 1
 
 *<font color="#827e9c"></font>*
-
+[Module 1 Lecture Recording](https://youtu.be/cgQSzfXIUmI)  
+  
 [Module 1 Lecture Slides - Intro](https://drive.google.com/file/d/1KdmXaOaU5vexQ2DTvviNvYeEopFnmeQS/view?usp=sharing)  
 [Module 1 Lecture Slides - FASTA/FASTQ/GTF](https://drive.google.com/file/d/1TaTTkzaebPe-LaSsAbhOrI12lMAxqpBi/view?usp=sharing)  
 [Module 1 Lecture Slides - Indexing](https://drive.google.com/file/d/1ajYpn6gupkHNL-c-iXGO7HF9PPjwn0vR/view?usp=sharing)  
@@ -65,7 +66,9 @@ Coming soon!
 ## Module 2
 
 <!-- *<font color="#827e9c"></font>* -->
-
+[Module 2.1 Lecture Recording](https://youtu.be/Epc3bfbRcRg)  
+[Module 2.2 Lecture Recording](https://youtu.be/pelhxnJnqdA)  
+  
 [Module 2 Lecture Slides - Alignment](https://drive.google.com/file/d/1sLR3RAHcnOXVzUp_i6jdTNnAIk6_66vY/view?usp=sharing)  
 [Module 2 Lecture Slides - Alignment vs Assembly vs Kmer](https://drive.google.com/file/d/129C7SIk50nI8tjE2Op9Uqa-3C9sYc6QZ/view?usp=sharing)  
 [Module 2 Lecture Slides - SAM/BAM/BED](https://drive.google.com/file/d/1aQsZXdMicVhZGAzDYMs2TRFqUQtK5Y1Y/view?usp=sharing)  
@@ -95,6 +98,8 @@ Coming soon!
 
 ## Module 3
 
+[Module 3 Lecture Recording](https://youtu.be/DjSnozu2qiU)  
+  
 [Module 3 Lecture Slides](https://drive.google.com/file/d/1r0dSTI2cGcyGe-I-rsCDRHOwoACx29WO/view?usp=sharing)  
 
 ## Module 3 Lab
@@ -126,7 +131,7 @@ Coming soon!
  [Batch Correction Analysis](https://rnabio.org/module-03-expression/0003/06/02/Batch-Correction/)  
 
 
-<!-- [Module 4 Mini-Lecture: Alignment-Free Expression Estimation (Kallisto)](https://drive.google.com/file/d/1P_PZQ9d_TONavatvL5G79VTQm1ooRff8/view?usp=drive_link)   -->
+<!-- [Module 4 Mini-Lecture: Alignment-Free Expression Estimation (Kallisto)]()   -->
 
 <!-- ### Module 4 Lab -->
 
