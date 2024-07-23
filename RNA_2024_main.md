@@ -37,8 +37,6 @@ Connecting and properly using a cloud computing cluster at the CBW [here](https:
 
 # Course Materials
 
-Coming soon!
-
 # Day 1 <a id="day1"></a>
 
 ##  Welcome
