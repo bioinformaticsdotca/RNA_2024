@@ -137,3 +137,16 @@ Coming soon!
 
 <!-- [Introduction to Alignment-Free Analysis](https://rnabio.org/module-04-kallisto/0004/01/01/Intro_to_Alignment_Free/)  
 [Alignment-Free Expression Estimation (Kallisto)](https://rnabio.org/module-04-kallisto/0004/02/01/Alignment_Free_Kallisto/)   -->
+
+# Post-Workshop Materials <a id="postworkshop"></a>
+## AMI
+We have made our AWS AMI (Amazon Machine Image) publicly available. To launch your own instance, follow the instructions provided by Amazon on [how to launch an EC2 instance from a custom Amazon Machine Image](https://repost.aws/knowledge-center/launch-instance-custom-ami). Please note that you will need an AWS account to proceed, and that you will need to upload the CourseData files yourself.
+
+Here are the details of the AMI:
+- AWS Region: us-east-1 (N. Virgina)
+- AMI type: public image
+- AMI name: CBW_RNA_240613
+- AMI ID: ami-0216fae97002bb976
+
+If you want to create and activate a new AWS account, please follow the [instructions](https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/) provided by Amazon.
+
